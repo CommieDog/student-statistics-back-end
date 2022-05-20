@@ -10,7 +10,7 @@
 # Description 📝
 API for a student database deployed on heroku! Feel free to download yourself or visit this link below to check it out!
 
-Deployed link: https://calm-basin-56126.herokuapp.com/
+Deployed link: https://calm-basin-56126.herokuapp.com/api/students/
 
 
 # Install 💾
